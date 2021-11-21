@@ -1,11 +1,10 @@
-# Armageddon
-A hack and slash style game developed for CSULB 2021 GameDev Club Jam by CECS students!
+# 2D - POC
+This is just a POC... (Proof of Concept)
 
 ### Software
 ---
-* Unity 2020.3.18f1 LTS 
-* Visual Studio or Visual Studio Code for editing C# code
-* [GitKraken](https://www.gitkraken.com)
+* Godot 3.4 Mono  
+* [GitKraken](https://www.gitkraken.com) - if you are a newb
 
 ### Git Commit Instructions for Members
 ---
@@ -20,17 +19,3 @@ Whenever you start working on a new issue, please CLONE and pull the latest rele
 6. Push changes to remote branch
 7. If you are done with changes, create Pull Request from your Branch to the Main Branch
 8. After I test your changes, I will merge your pull request to main branch
-
-### Issues/Tasks
----
-Please see the Project [Issue Tracker](https://github.com/WheeledParasite/Hack-N-Slash/issues).
-
-### Valuable Skills you will learn
----
-- How to use source control software (Git) [Valuable for employers]
-- How to work on a team of software engineers [Valuable for employers]
-- Problem Solving
-- Unity Framework
-- C# coding [75,000+ jobs on Indeed need C# Skills]
-- Game Design
-- Project Management
