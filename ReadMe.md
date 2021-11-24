@@ -10,12 +10,24 @@ This is just a POC... (Proof of Concept)
 ---
 Whenever you start working on a new issue, please CLONE and pull the latest release from GitHub!
 
-0. Delete any old directories of old issues you were working on.
-1. Clone LATEST Repository
-2. Create a **new branch** (use any descriptive name) you are working on.
-3. Make Changes / Test Changes
-4. Commit changes (it is best to commit each small change).
-5. Repeat steps 3-4 until ready to push
-6. Push changes to remote branch
-7. If you are done with changes, create Pull Request from your Branch to the Main Branch
-8. After I test your changes, I will merge your pull request to main branch
+1. Delete any old directories of old issues you were working on.
+2. Clone LATEST Repository
+```
+git clone https://github.com/JamesCommonHub/2D-POC.git
+```
+3. Create a **new branch** (use any descriptive name) you are working on.
+```
+git checkout -b <branchname>
+```
+4. Make Changes / Test Changes
+5. Commit changes (it is best to commit each small change).
+```
+git commit -m "commit message here"
+```
+6. Repeat steps 3-4 until ready to push
+7. Push changes to remote branch
+```
+git push -u origin <branch>
+```
+8. Create Pull Request from your Branch to the Main Branch
+9. Merge Pull Request to Main Branch
