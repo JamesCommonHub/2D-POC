@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Mira HQ Cafeteria Balcony and Storage Area.png-5c48ff6775028dfba0d8c654464a8591.stex"
+path="res://.import/Mira HQ Cafeteria Balcony and Storage Area.png-ae942b79fbc002f0bc46e11bbf967d44.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Mira HQ Cafeteria Balcony and Storage Area.png"
-dest_files=[ "res://.import/Mira HQ Cafeteria Balcony and Storage Area.png-5c48ff6775028dfba0d8c654464a8591.stex" ]
+source_file="res://assets/amoung_us/Mira HQ Cafeteria Balcony and Storage Area.png"
+dest_files=[ "res://.import/Mira HQ Cafeteria Balcony and Storage Area.png-ae942b79fbc002f0bc46e11bbf967d44.stex" ]
 
 [params]
 

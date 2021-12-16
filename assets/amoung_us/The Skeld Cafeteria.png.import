@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Cafeteria.png-76cb80bdc2c956bc5eb3462a3b0e2666.stex"
+path="res://.import/The Skeld Cafeteria.png-b40ce447da3ec63a77c2d3d1d17da810.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Cafeteria.png"
-dest_files=[ "res://.import/The Skeld Cafeteria.png-76cb80bdc2c956bc5eb3462a3b0e2666.stex" ]
+source_file="res://assets/amoung_us/The Skeld Cafeteria.png"
+dest_files=[ "res://.import/The Skeld Cafeteria.png-b40ce447da3ec63a77c2d3d1d17da810.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Airship Vault.png-585b93ec57104cfecbff7ea63dd7d5a9.stex"
+path="res://.import/Airship Vault.png-f050ee5c4925a5b95ae4de6aae5a7cd7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Airship Vault.png"
-dest_files=[ "res://.import/Airship Vault.png-585b93ec57104cfecbff7ea63dd7d5a9.stex" ]
+source_file="res://assets/amoung_us/Airship Vault.png"
+dest_files=[ "res://.import/Airship Vault.png-f050ee5c4925a5b95ae4de6aae5a7cd7.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Storage.png-490a765122c35c0acf1391f666d3a3d3.stex"
+path="res://.import/The Skeld Storage.png-0d9614e003f183d96f897654bc9a26ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Storage.png"
-dest_files=[ "res://.import/The Skeld Storage.png-490a765122c35c0acf1391f666d3a3d3.stex" ]
+source_file="res://assets/amoung_us/The Skeld Storage.png"
+dest_files=[ "res://.import/The Skeld Storage.png-0d9614e003f183d96f897654bc9a26ac.stex" ]
 
 [params]
 

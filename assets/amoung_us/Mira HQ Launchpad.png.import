@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Mira HQ Launchpad.png-0c32ab7fc15a736233510db6b7a61685.stex"
+path="res://.import/Mira HQ Launchpad.png-a592b40390be2cf10fc43868b15e67ab.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Mira HQ Launchpad.png"
-dest_files=[ "res://.import/Mira HQ Launchpad.png-0c32ab7fc15a736233510db6b7a61685.stex" ]
+source_file="res://assets/amoung_us/Mira HQ Launchpad.png"
+dest_files=[ "res://.import/Mira HQ Launchpad.png-a592b40390be2cf10fc43868b15e67ab.stex" ]
 
 [params]
 

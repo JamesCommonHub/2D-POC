@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Polus Admin Office and Decontamination Area.png-12f6feb2e0e80b2755bcc56915a5c3c2.stex"
+path="res://.import/Polus Admin Office and Decontamination Area.png-71158c064cf62242f42a8fceb005aa10.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Polus Admin Office and Decontamination Area.png"
-dest_files=[ "res://.import/Polus Admin Office and Decontamination Area.png-12f6feb2e0e80b2755bcc56915a5c3c2.stex" ]
+source_file="res://assets/amoung_us/Polus Admin Office and Decontamination Area.png"
+dest_files=[ "res://.import/Polus Admin Office and Decontamination Area.png-71158c064cf62242f42a8fceb005aa10.stex" ]
 
 [params]
 

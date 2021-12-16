@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Security.png-348ef1c2ca76929f654ab9a13ec4b469.stex"
+path="res://.import/The Skeld Security.png-2377792067ce38f84a083ea9392342f6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Security.png"
-dest_files=[ "res://.import/The Skeld Security.png-348ef1c2ca76929f654ab9a13ec4b469.stex" ]
+source_file="res://assets/amoung_us/The Skeld Security.png"
+dest_files=[ "res://.import/The Skeld Security.png-2377792067ce38f84a083ea9392342f6.stex" ]
 
 [params]
 

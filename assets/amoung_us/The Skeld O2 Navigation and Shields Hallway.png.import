@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld O2 Navigation and Shields Hallway.png-a4395c6712ed6ce0adc25dc862f5c37e.stex"
+path="res://.import/The Skeld O2 Navigation and Shields Hallway.png-6139e4268f3a405f75fdee3bb7f43b38.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld O2 Navigation and Shields Hallway.png"
-dest_files=[ "res://.import/The Skeld O2 Navigation and Shields Hallway.png-a4395c6712ed6ce0adc25dc862f5c37e.stex" ]
+source_file="res://assets/amoung_us/The Skeld O2 Navigation and Shields Hallway.png"
+dest_files=[ "res://.import/The Skeld O2 Navigation and Shields Hallway.png-6139e4268f3a405f75fdee3bb7f43b38.stex" ]
 
 [params]
 

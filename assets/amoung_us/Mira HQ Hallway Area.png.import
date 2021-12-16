@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Mira HQ Hallway Area.png-2b5d22aa91586b19aff64b432c95a69e.stex"
+path="res://.import/Mira HQ Hallway Area.png-5bb1fddd917a81059f392fb07c9f8f74.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Mira HQ Hallway Area.png"
-dest_files=[ "res://.import/Mira HQ Hallway Area.png-2b5d22aa91586b19aff64b432c95a69e.stex" ]
+source_file="res://assets/amoung_us/Mira HQ Hallway Area.png"
+dest_files=[ "res://.import/Mira HQ Hallway Area.png-5bb1fddd917a81059f392fb07c9f8f74.stex" ]
 
 [params]
 

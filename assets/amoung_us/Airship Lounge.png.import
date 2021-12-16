@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Airship Lounge.png-1770306fbdb7a184ca55c0bf805ee856.stex"
+path="res://.import/Airship Lounge.png-f936de53278bb4a0c823558ad4c0e8c9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Airship Lounge.png"
-dest_files=[ "res://.import/Airship Lounge.png-1770306fbdb7a184ca55c0bf805ee856.stex" ]
+source_file="res://assets/amoung_us/Airship Lounge.png"
+dest_files=[ "res://.import/Airship Lounge.png-f936de53278bb4a0c823558ad4c0e8c9.stex" ]
 
 [params]
 

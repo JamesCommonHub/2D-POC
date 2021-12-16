@@ -35,8 +35,8 @@ func _process(delta):
 		_anim_tree.set_condition("isMoving", velocity.length() > 0)
 
 	position += velocity * delta
-	position.x = clamp(position.x, 0, screen_size.x)
-	position.y = clamp(position.y, 0, screen_size.y)
+	position.x = clamp(position.x, -5000, 5000) # last 2 parameters are the tiles they can move between from starting position
+	position.y = clamp(position.y, -5000, 5000) # same here
 
 	if velocity.x != 0:
 		$AnimatedSprite.flip_v = false

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Reactor.png-dd9678ae2b11b0cfa552914464dd7f27.stex"
+path="res://.import/The Skeld Reactor.png-6cf5dd7968f0f31f29d509d0b9e4d033.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Reactor.png"
-dest_files=[ "res://.import/The Skeld Reactor.png-dd9678ae2b11b0cfa552914464dd7f27.stex" ]
+source_file="res://assets/amoung_us/The Skeld Reactor.png"
+dest_files=[ "res://.import/The Skeld Reactor.png-6cf5dd7968f0f31f29d509d0b9e4d033.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Mira HQ Decontamination Reactor Laboratory Area.png-40372526b38a1441e1b82e28995fb422.stex"
+path="res://.import/Mira HQ Decontamination Reactor Laboratory Area.png-ec90fb3447d21af726b164cbd13c886d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Mira HQ Decontamination Reactor Laboratory Area.png"
-dest_files=[ "res://.import/Mira HQ Decontamination Reactor Laboratory Area.png-40372526b38a1441e1b82e28995fb422.stex" ]
+source_file="res://assets/amoung_us/Mira HQ Decontamination Reactor Laboratory Area.png"
+dest_files=[ "res://.import/Mira HQ Decontamination Reactor Laboratory Area.png-ec90fb3447d21af726b164cbd13c886d.stex" ]
 
 [params]
 

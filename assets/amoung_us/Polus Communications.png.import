@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Polus Communications.png-2cea732a5cdd3766db57650177d01557.stex"
+path="res://.import/Polus Communications.png-206b935badbfa667adf8806c36a2769f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Polus Communications.png"
-dest_files=[ "res://.import/Polus Communications.png-2cea732a5cdd3766db57650177d01557.stex" ]
+source_file="res://assets/amoung_us/Polus Communications.png"
+dest_files=[ "res://.import/Polus Communications.png-206b935badbfa667adf8806c36a2769f.stex" ]
 
 [params]
 

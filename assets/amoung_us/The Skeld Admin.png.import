@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Admin.png-98c36367f21e84cb0e0efebf25fca759.stex"
+path="res://.import/The Skeld Admin.png-6355bdf61c188b4fcb4ee22bd8f67a4d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Admin.png"
-dest_files=[ "res://.import/The Skeld Admin.png-98c36367f21e84cb0e0efebf25fca759.stex" ]
+source_file="res://assets/amoung_us/The Skeld Admin.png"
+dest_files=[ "res://.import/The Skeld Admin.png-6355bdf61c188b4fcb4ee22bd8f67a4d.stex" ]
 
 [params]
 
