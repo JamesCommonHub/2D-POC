@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Storage Shield Communications Hallway.png-7c29b516d27b1ddec3bb68de562e3ade.stex"
+path="res://.import/The Skeld Storage Shield Communications Hallway.png-2583222eb4270d0062b8fef2468ec27c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Storage Shield Communications Hallway.png"
-dest_files=[ "res://.import/The Skeld Storage Shield Communications Hallway.png-7c29b516d27b1ddec3bb68de562e3ade.stex" ]
+source_file="res://assets/amoung_us/The Skeld Storage Shield Communications Hallway.png"
+dest_files=[ "res://.import/The Skeld Storage Shield Communications Hallway.png-2583222eb4270d0062b8fef2468ec27c.stex" ]
 
 [params]
 

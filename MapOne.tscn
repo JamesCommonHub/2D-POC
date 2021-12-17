@@ -1,14 +1,14 @@
 [gd_scene load_steps=133 format=2]
 
-[ext_resource path="res://assets/amoung us/The Skeld Cafeteria.png" type="Texture" id=1]
-[ext_resource path="res://assets/amoung us/The Skeld O2 Navigation and Shields Hallway.png" type="Texture" id=2]
-[ext_resource path="res://assets/amoung us/Dropship Lobby.png" type="Texture" id=3]
-[ext_resource path="res://assets/amoung us/The Skeld Engines.png" type="Texture" id=4]
-[ext_resource path="res://assets/amoung us/The Skeld Reactor Security Engines Hallway Cross.png" type="Texture" id=5]
-[ext_resource path="res://assets/amoung us/Polus Laboratory.png" type="Texture" id=6]
-[ext_resource path="res://assets/amoung us/Airship Lounge.png" type="Texture" id=7]
-[ext_resource path="res://assets/amoung us/The Skeld Storage.png" type="Texture" id=8]
-[ext_resource path="res://assets/amoung us/The Skeld Navigation.png" type="Texture" id=9]
+[ext_resource path="res://assets/amoung_us/The Skeld Cafeteria.png" type="Texture" id=1]
+[ext_resource path="res://assets/amoung_us/The Skeld O2 Navigation and Shields Hallway.png" type="Texture" id=2]
+[ext_resource path="res://assets/amoung_us/Dropship Lobby.png" type="Texture" id=3]
+[ext_resource path="res://assets/amoung_us/The Skeld Engines.png" type="Texture" id=4]
+[ext_resource path="res://assets/amoung_us/The Skeld Reactor Security Engines Hallway Cross.png" type="Texture" id=5]
+[ext_resource path="res://assets/amoung_us/Polus Laboratory.png" type="Texture" id=6]
+[ext_resource path="res://assets/amoung_us/Airship Lounge.png" type="Texture" id=7]
+[ext_resource path="res://assets/amoung_us/The Skeld Storage.png" type="Texture" id=8]
+[ext_resource path="res://assets/amoung_us/The Skeld Navigation.png" type="Texture" id=9]
 
 [sub_resource type="TileSet" id=1]
 0/name = "The Skeld Cafeteria.png 0"
@@ -2922,6 +2922,6 @@ format = 1
 tile_data = PoolIntArray( 2162803, 4, 0, 2293873, 1, 0, 2687094, 0, 0, 2752626, 2, 0, 3539058, 3, 0, 3604595, 1073741828, 0 )
 
 [node name="Fill" type="TileMap" parent="."]
+position = Vector2( 1, 1 )
 tile_set = SubResource( 123 )
-cell_size = Vector2( 16, 16 )
 format = 1

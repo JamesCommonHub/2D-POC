@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Dropship Lobby.png-30fc3f5fb26cce5833f7fc278b78ba7f.stex"
+path="res://.import/Dropship Lobby.png-11848b684fc6e7774cdbf4bb19529cbf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Dropship Lobby.png"
-dest_files=[ "res://.import/Dropship Lobby.png-30fc3f5fb26cce5833f7fc278b78ba7f.stex" ]
+source_file="res://assets/amoung_us/Dropship Lobby.png"
+dest_files=[ "res://.import/Dropship Lobby.png-11848b684fc6e7774cdbf4bb19529cbf.stex" ]
 
 [params]
 

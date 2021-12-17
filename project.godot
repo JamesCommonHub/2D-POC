@@ -14,6 +14,15 @@ config/name="VOID BASTARDS LITE"
 run/main_scene="res://scenes/Main.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1920
+window/size/height=1080
+
+[global]
+
+scene=false
+
 [input]
 
 move_right={

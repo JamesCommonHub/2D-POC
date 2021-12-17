@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Cafeteria Upper Engine Medbay Hallway.png-253ef85625f0eb71b043be86c8764dba.stex"
+path="res://.import/The Skeld Cafeteria Upper Engine Medbay Hallway.png-e779b48f44ed46828d685cafdec4e2de.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Cafeteria Upper Engine Medbay Hallway.png"
-dest_files=[ "res://.import/The Skeld Cafeteria Upper Engine Medbay Hallway.png-253ef85625f0eb71b043be86c8764dba.stex" ]
+source_file="res://assets/amoung_us/The Skeld Cafeteria Upper Engine Medbay Hallway.png"
+dest_files=[ "res://.import/The Skeld Cafeteria Upper Engine Medbay Hallway.png-e779b48f44ed46828d685cafdec4e2de.stex" ]
 
 [params]
 

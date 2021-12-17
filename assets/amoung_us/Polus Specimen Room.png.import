@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Polus Specimen Room.png-e72efa5ad6aa576a34f40a2c136a89f5.stex"
+path="res://.import/Polus Specimen Room.png-9e3f03cad21f024ae99631cdcdc10f65.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Polus Specimen Room.png"
-dest_files=[ "res://.import/Polus Specimen Room.png-e72efa5ad6aa576a34f40a2c136a89f5.stex" ]
+source_file="res://assets/amoung_us/Polus Specimen Room.png"
+dest_files=[ "res://.import/Polus Specimen Room.png-9e3f03cad21f024ae99631cdcdc10f65.stex" ]
 
 [params]
 

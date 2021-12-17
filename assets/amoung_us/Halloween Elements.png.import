@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Halloween Elements.png-db0a29a344334dcf065d0d48f74cb74a.stex"
+path="res://.import/Halloween Elements.png-7854c11383857054ddcc1ac696f6fc97.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Halloween Elements.png"
-dest_files=[ "res://.import/Halloween Elements.png-db0a29a344334dcf065d0d48f74cb74a.stex" ]
+source_file="res://assets/amoung_us/Halloween Elements.png"
+dest_files=[ "res://.import/Halloween Elements.png-7854c11383857054ddcc1ac696f6fc97.stex" ]
 
 [params]
 

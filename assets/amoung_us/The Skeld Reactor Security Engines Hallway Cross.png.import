@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Reactor Security Engines Hallway Cross.png-b9aee83c037b0ac361babfd2962a12f9.stex"
+path="res://.import/The Skeld Reactor Security Engines Hallway Cross.png-4f6ea95ad587b001483c72b908bb3553.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Reactor Security Engines Hallway Cross.png"
-dest_files=[ "res://.import/The Skeld Reactor Security Engines Hallway Cross.png-b9aee83c037b0ac361babfd2962a12f9.stex" ]
+source_file="res://assets/amoung_us/The Skeld Reactor Security Engines Hallway Cross.png"
+dest_files=[ "res://.import/The Skeld Reactor Security Engines Hallway Cross.png-4f6ea95ad587b001483c72b908bb3553.stex" ]
 
 [params]
 

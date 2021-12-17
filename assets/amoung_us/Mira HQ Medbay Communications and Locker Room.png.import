@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Mira HQ Medbay Communications and Locker Room.png-e9a3f94894c1a10099ed725a2d3dfbb7.stex"
+path="res://.import/Mira HQ Medbay Communications and Locker Room.png-bfe1f0436e73ab0a8d61ef8b78f1185a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Mira HQ Medbay Communications and Locker Room.png"
-dest_files=[ "res://.import/Mira HQ Medbay Communications and Locker Room.png-e9a3f94894c1a10099ed725a2d3dfbb7.stex" ]
+source_file="res://assets/amoung_us/Mira HQ Medbay Communications and Locker Room.png"
+dest_files=[ "res://.import/Mira HQ Medbay Communications and Locker Room.png-bfe1f0436e73ab0a8d61ef8b78f1185a.stex" ]
 
 [params]
 

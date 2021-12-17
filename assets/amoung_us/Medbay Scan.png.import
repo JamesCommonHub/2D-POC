@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Medbay Scan.png-1535434b83d4c097edc0aac95e08edde.stex"
+path="res://.import/Medbay Scan.png-13da115067ba64d9d7866260df69265d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Medbay Scan.png"
-dest_files=[ "res://.import/Medbay Scan.png-1535434b83d4c097edc0aac95e08edde.stex" ]
+source_file="res://assets/amoung_us/Medbay Scan.png"
+dest_files=[ "res://.import/Medbay Scan.png-13da115067ba64d9d7866260df69265d.stex" ]
 
 [params]
 

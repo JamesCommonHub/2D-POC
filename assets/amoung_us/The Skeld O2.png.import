@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld O2.png-666507636bd66ee88f79108705157187.stex"
+path="res://.import/The Skeld O2.png-ceb1aab7246c27143a2df04731526631.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld O2.png"
-dest_files=[ "res://.import/The Skeld O2.png-666507636bd66ee88f79108705157187.stex" ]
+source_file="res://assets/amoung_us/The Skeld O2.png"
+dest_files=[ "res://.import/The Skeld O2.png-ceb1aab7246c27143a2df04731526631.stex" ]
 
 [params]
 

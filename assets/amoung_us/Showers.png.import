@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Showers.png-5fa3d30fc4803062a0c3db5372c81cdf.stex"
+path="res://.import/Showers.png-12d3b61b7eb5b0d7d6bb3f677dcb1aaf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/Showers.png"
-dest_files=[ "res://.import/Showers.png-5fa3d30fc4803062a0c3db5372c81cdf.stex" ]
+source_file="res://assets/amoung_us/Showers.png"
+dest_files=[ "res://.import/Showers.png-12d3b61b7eb5b0d7d6bb3f677dcb1aaf.stex" ]
 
 [params]
 

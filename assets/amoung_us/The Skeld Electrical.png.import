@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Electrical.png-680500fd06b7216562fc77cb4db8f3e0.stex"
+path="res://.import/The Skeld Electrical.png-ac4c5869db1a7897ecfc5cfeba5426fc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Electrical.png"
-dest_files=[ "res://.import/The Skeld Electrical.png-680500fd06b7216562fc77cb4db8f3e0.stex" ]
+source_file="res://assets/amoung_us/The Skeld Electrical.png"
+dest_files=[ "res://.import/The Skeld Electrical.png-ac4c5869db1a7897ecfc5cfeba5426fc.stex" ]
 
 [params]
 

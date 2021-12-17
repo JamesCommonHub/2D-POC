@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/The Skeld Weapons.png-f9a90d2620983c308cebf8cfc8e7df4d.stex"
+path="res://.import/The Skeld Weapons.png-f31b0149a46eca5dbab79e20c4a445a7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/amoung us/The Skeld Weapons.png"
-dest_files=[ "res://.import/The Skeld Weapons.png-f9a90d2620983c308cebf8cfc8e7df4d.stex" ]
+source_file="res://assets/amoung_us/The Skeld Weapons.png"
+dest_files=[ "res://.import/The Skeld Weapons.png-f31b0149a46eca5dbab79e20c4a445a7.stex" ]
 
 [params]
 
